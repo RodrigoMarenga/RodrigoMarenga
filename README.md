@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://i.imgur.com/8SvRxFi.jpeg" alt="Capa do perfil do GitHub de Rodrigo Marenga" width="100%">
+    <img src="https://i.imgur.com/UTBqyYo.jpeg" alt="Capa do perfil do GitHub de Rodrigo Marenga" width="100%">
 </div>
 
 # 👋 Olá! Eu sou Rodrigo Marenga
