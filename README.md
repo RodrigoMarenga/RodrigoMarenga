@@ -20,6 +20,6 @@ Sou estudante de **Desenvolvimento Frontend**, atualmente bolsista do **programa
 ---
 
 ### 📫 Conecte-se comigo:
-- [LinkedIn](https://linkedin.com/in/[seulink](https://www.linkedin.com/in/rodrigo-marenga-6b27a68b/))
+- [LinkedIn]([https://linkedin.com/in/[seulink](https://www.linkedin.com/in/rodrigo-marenga-6b27a68b/)
 - [WhatsApp](https://wa.me/seunumero)
 - [Email](mailto:seuemail@gmail.com)
