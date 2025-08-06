@@ -1,52 +1,25 @@
-<h2 align="left">Olá, me chamo Rodrigo Marenga, sou estudante de programação Full Stack. Tenho um sonho enorme de entrar no mercado de trabalho da programação e estudo todos os dias para isto. Nunca é tarde para atuar na área de paixão!</h2>
+# 👋 Olá! Eu sou Rodrigo Marenga
 
-###
+Sou estudante de **Desenvolvimento Frontend**, atualmente bolsista do **programa Bolsa Futuro Digital** — uma iniciativa do Governo Federal executada pela Softex PE — onde estou me formando em tecnologias como **HTML, CSS, JavaScript e React**.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RodrigoMarenga&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RodrigoMarenga&theme=nord&area=true&hide_border=false&hide_title=false" height="150" alt="activity-graph graph"  />
-</div>
+💡 Estou em transição de carreira com o objetivo claro de atuar como **Desenvolvedor Frontend**, unindo minha paixão por tecnologia com o desejo de construir interfaces modernas, acessíveis e funcionais.
 
-###
+📚 Estudo diariamente, focado em evoluir, praticar e conquistar minha **primeira oportunidade profissional na área**.
 
-<img align="right" height="150" src="https://cdn.pixabay.com/photo/2024/04/09/03/04/ai-generated-8684869_1280.jpg"  />
+🎯 Minha meta é clara: aprender com profundidade, aplicar meus conhecimentos em projetos reais e contribuir com o mercado de tecnologia.
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-</div>
+### 🚀 Tecnologias que estou aprendendo
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-###
+---
 
-<div align="left">
-  <a href="https://br.linkedin.com/in/rodrigo-marenga-6b27a68b" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://wa.me/5581995598612" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  </a>
-  <a href="https://www.instagram.com/rodrigo.marenga/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="rodrigomarenga@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/RodrigoMarenga/RodrigoMarenga/output/snake.svg" alt="Snake animation" />
-
-###
+### 📫 Conecte-se comigo:
+- [LinkedIn](https://linkedin.com/in/seulink)
+- [WhatsApp](https://wa.me/seunumero)
+- [Email](mailto:seuemail@gmail.com)
