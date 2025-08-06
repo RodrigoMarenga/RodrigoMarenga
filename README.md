@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Rodrigo Marenga
 
-Sou estudante de **Desenvolvimento Frontend**, atualmente bolsista do **programa Bolsa Futuro Digital** — uma iniciativa do Governo Federal executada pela Softex PE — onde estou me formando em tecnologias como **HTML, CSS, JavaScript e React**.
+Sou estudante de **Desenvolvimento Frontend**, atualmente bolsista do **programa Bolsa Futuro Digital** — uma iniciativa do Governo Federal executada pela **Softex PE** — onde estou me formando em tecnologias como **HTML, CSS, JavaScript e React**.
 
 💡 Estou em transição de carreira com o objetivo claro de atuar como **Desenvolvedor Frontend**, unindo minha paixão por tecnologia com o desejo de construir interfaces modernas, acessíveis e funcionais.
 
@@ -20,6 +20,6 @@ Sou estudante de **Desenvolvimento Frontend**, atualmente bolsista do **programa
 ---
 
 ### 📫 Conecte-se comigo:
-- [LinkedIn]([https://linkedin.com/in/[seulink](https://www.linkedin.com/in/rodrigo-marenga-6b27a68b/)
-- [WhatsApp](https://wa.me/seunumero)
-- [Email](mailto:seuemail@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/rodrigo-marenga-6b27a68b/)
+- [WhatsApp](https://wa.me/5581995598612)
+- [Email](mailto:rodrigomarenga@gmail.com)
