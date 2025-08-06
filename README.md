@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://i.imgur.com/[link_da_sua_imagem.png](https://imgur.com/a/cGFPJIg)" alt="Capa do perfil do GitHub de Rodrigo Marenga" width="100%">
+</div>
+
 # 👋 Olá! Eu sou Rodrigo Marenga
 
 Sou estudante de **Desenvolvimento Frontend**, atualmente bolsista do **programa Bolsa Futuro Digital** — uma iniciativa do Governo Federal executada pela **Softex PE** — onde estou me formando em tecnologias como **HTML, CSS, JavaScript e React**.
